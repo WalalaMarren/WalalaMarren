@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://https://www.linkedin.com/in/nyagaya-walala-9a47a4184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://https://www.linkedin.com/in/nyagaya-walala-9a47a4184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NyagayaWalala-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:marrenanyangonyagaya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marrenanyangonyagaya@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
